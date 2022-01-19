@@ -1,9 +1,9 @@
 ---
-title: Demo Grading Contract
+title: Grading Contract
 output: github_document
 params:
-  weekonemonday: "2022-01-10"
-  name: John Tukey
+  weektwothursday: "2022-01-10"
+  name: Adam Paul
 ---
 
 ```{r setup, include=FALSE}
@@ -120,11 +120,11 @@ I, `r params$name`, agree to :
 ## SCHEDULE
 
 - [ ] `r advdate(dayone, 1, topic)`
-  - Finish Lab 1 by `r advdate(dayone, 1, assignment="f")`
+  - Finish Lab 1 by 1/21
 - [ ] `r advdate(dayone, 2, topic)`
-  - Finish Lab 2 by `r advdate(dayone, 2, assignment="f")`
+  - Finish Lab 2 by 1/21
 - [ ]  `r advdate(dayone, 3, topic)`
-  - Finish Lab 3  by `r advdate(dayone, 3, assignment="f")`
+  - Finish Lab 3  by 1/28
   - Finish portfolio piece 1 by `r advdate(dayone, 3, assignment="f")`
 - [ ] `r advdate(dayone, 4, topic)`
   - Finish Lab 4  by `r advdate(dayone, 4, assignment="f")`
