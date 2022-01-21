@@ -122,7 +122,7 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by 1/21
 - [ ] `r advdate(dayone, 2, topic)`
-  - Finish Lab 2 by 1/21
+  - Finish Lab 2 by 1/28
 - [ ]  `r advdate(dayone, 3, topic)`
   - Finish Lab 3  by 1/28
   - Finish portfolio piece 1 by 1/28

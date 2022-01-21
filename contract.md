@@ -34,7 +34,7 @@ I, Adam Paul, agree to :
 -   [ ] Module 01, - : What is Data Science and Meet the Toolkit
     -   Finish Lab 1 by 1/21
 -   [ ] Module 02, - : Data and Visualization
-    -   Finish Lab 2 by 1/21
+    -   Finish Lab 2 by 1/28
 -   [ ] Module 03, - : Grammar of data wrangling
     -   Finish Lab 3 by 1/28
     -   Finish portfolio piece 1 by 1/28
