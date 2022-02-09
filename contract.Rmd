@@ -103,12 +103,11 @@ topic=c(
 
 I, `r params$name`, agree to :
 
-1) Earn “Satisfactory” on 12 self-paced lab assignments on the schedule specified below.
+1) Earn “Satisfactory” on 11 self-paced lab assignments on the schedule specified below.
 	-  Satisfactory defined:
   	-  I have attempted all steps of the assignment. If unable to complete steps due to unresolved questions, I have asked questions in Github FAQs or zoom help session, or I have Googled the issue and shown effort to resolve questions;
   	-  I have checked that forked files, repos, or projects appear on my Github account and are accessible;
   	-  I feel like I have spent an adequate amount of time and energy on assignments; 
-<!-- (tentatively defining “adequate” based on Lab 1 and previous experience with R: I will spend at least 30 minutes on labs and at least 1 hour on portfolio pieces); -->
   	-  My unessays are organized, thoughtful, and free of grammar mistakes or typos;
   	-  My presentation is professional and engaging.
 2) Produce at least 10 “Satisfactory” portfolio pieces on the schedule specified below.
@@ -122,22 +121,22 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by 1/21
 - [ ] `r advdate(dayone, 2, topic)`
-  - Finish Lab 2 by 1/28
+  - Finish Lab 2 by 2/11
 - [ ]  `r advdate(dayone, 3, topic)`
-  - Finish Lab 3  by 1/28
-  - Finish portfolio piece 1 by 1/28
+  - Finish Lab 3  by 2/11
 - [ ] `r advdate(dayone, 4, topic)`
-  - Finish Lab 4  by 2/4
+  - Finish Lab 4  by 2/11
 - [ ] `r advdate(dayone, 5, topic)`
   - Finish Lab 5  by 2/11
-  - Finish portfolio piece 2 by 2/11
 - [ ] `r advdate(dayone, 6, topic)`
   - Finish Lab 6 by 2/18
+  - Finish portfolio piece 1 by 2/18
 - [ ] `r advdate(dayone, 7, topic)`
   - Finish Lab 2/25
-  - Finish portfolio piece 3 by 2/25
+  - Finish portfolio piece 2 by 2/11
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by 3/4
+  - Finish portfolio piece 3 by 3/4
   - Finish Unessay 1 due on 3/4
 - [ ] `r advdate(dayone, 9, topic)`
   - Finish Lab 9 by 3/11
@@ -151,9 +150,9 @@ I, `r params$name`, agree to :
   - Finish Lab 12 by 4/1
   - Finish portfolio piece 6 by 4/1
 - [ ] `r advdate(dayone, 13, topic)`
-  - Finish portfolio pieces 7 and 8 by 4/8
+  - Finish portfolio piece 7 by 4/8
 - [ ] `r advdate(dayone, 14, topic)`
-  - Finish portfolio piece 9 by 4/15
+  - Finish portfolio pieces 8 & 9 by 4/15
 - [ ] `r advdate(dayone, 15, topic)`
   - Finish portfolio piece 10 by 4/22
   - Finish Unessay 2 due on 4/22
